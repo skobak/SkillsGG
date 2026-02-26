@@ -1,0 +1,4 @@
+interface:
+  display_name: "GG"
+  short_description: "Guarded commit and PR flow for Codex"
+  default_prompt: "Run GG on my current branch: apply repo rules, run checks, review, commit, push, and create/update PR."
